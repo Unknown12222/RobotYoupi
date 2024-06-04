@@ -1,0 +1,15 @@
+# ninja log v5
+2	1103	7361690211584932	camera_autogen/timestamp	485656f3f64ad492
+2	1103	7361690211584932	camera_autogen/mocs_compilation.cpp	485656f3f64ad492
+2	1103	7361690211584932	C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/camera_autogen/timestamp	485656f3f64ad492
+2	1103	7361690211584932	C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/camera_autogen/mocs_compilation.cpp	485656f3f64ad492
+1280	1381	7361690214971537	.rcc/qrc_camera.cpp	24383a78d5ed17c3
+1280	1381	7361690214971537	C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/.rcc/qrc_camera.cpp	24383a78d5ed17c3
+1416	1532	7361690216488519	CMakeFiles/camera.dir/.rcc/qrc_camera.cpp.obj	f1ca574ad0f288cd
+1383	1567	7361690216906057	CMakeFiles/camera.dir/camera_autogen/mocs_compilation.cpp.obj	b382a18d83612a21
+1395	4075	7361690242017977	CMakeFiles/camera.dir/main.cpp.obj	a42a4cce0d42682
+1401	4688	7361690248060088	CMakeFiles/camera.dir/imagesettings.cpp.obj	80015e5b3e509c00
+1412	4773	7361690248949149	CMakeFiles/camera.dir/metadatadialog.cpp.obj	7b1045b17fdec5e3
+1407	5152	7361690252668126	CMakeFiles/camera.dir/videosettings.cpp.obj	38250a684dbbcffb
+1388	5973	7361690260895761	CMakeFiles/camera.dir/camera.cpp.obj	c6508afbac0f2654
+5974	7156	7361690272684161	camera.exe	29eb8242ce7e350e

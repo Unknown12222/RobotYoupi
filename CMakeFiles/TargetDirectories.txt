@@ -1,0 +1,9 @@
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/camera.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/edit_cache.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/rebuild_cache.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/list_install_components.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/install.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/install/local.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/install/strip.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/camera_autogen_timestamp_deps.dir
+C:/Users/ciel/Documents/Projet_Bras_RobotiqueOK/ProjetavecToutFichier/Ensemble/CMakeFiles/camera_autogen.dir

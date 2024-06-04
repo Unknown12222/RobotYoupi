@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="images/shutter.svg">C:/Qt/Examples/Qt-6.6.1/multimedia/camera/images/shutter.svg</file>
+  </qresource>
+</RCC>
+
