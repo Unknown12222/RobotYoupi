@@ -10,9 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     QPalette palettecyan, palettedarkred;
     palettecyan.setColor(QPalette::Window, Qt::black);
-    palettedarkred.setColor(QPalette::ButtonText, Qt::black);
     this->setPalette(palettecyan);
-    ui->p_BaseGauche->setPalette(palettedarkred);
 
     arduino = new seriallink;   // Creation d'un OBJET de class seriallink
 

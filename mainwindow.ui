@@ -13,44 +13,75 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: beige</string>
+  </property>
   <widget class="QWidget" name="statuswidget">
    <widget class="QPushButton" name="p_EpauleHaut">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>410</y>
-      <width>75</width>
+      <x>80</x>
+      <y>500</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Epaule</string>
+     <string>Epaule en Haut</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_PoignetBas">
     <property name="geometry">
      <rect>
-      <x>300</x>
-      <y>470</y>
-      <width>75</width>
+      <x>350</x>
+      <y>420</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Poignet</string>
+     <string>Poignet en Haut</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_BaseGauche">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>380</y>
-      <width>75</width>
+      <x>80</x>
+      <y>540</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <italic>false</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Base</string>
+     <string>Base à Gauche</string>
     </property>
     <property name="checkable">
      <bool>false</bool>
@@ -59,76 +90,130 @@
    <widget class="QPushButton" name="p_EpauleBas">
     <property name="geometry">
      <rect>
-      <x>300</x>
-      <y>410</y>
-      <width>75</width>
+      <x>350</x>
+      <y>500</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Epaule</string>
+     <string>Epaule en Haut</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_PinceOuvrir">
     <property name="geometry">
      <rect>
-      <x>540</x>
-      <y>430</y>
-      <width>75</width>
+      <x>590</x>
+      <y>400</y>
+      <width>101</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>PinceOuvrir</string>
+     <string>Ouvrir la pince</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_CoudeBas">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>440</y>
-      <width>75</width>
+      <x>350</x>
+      <y>460</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Coude</string>
+     <string>Coude en Bas</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_CoudeHaut">
     <property name="geometry">
      <rect>
-      <x>300</x>
-      <y>440</y>
-      <width>75</width>
+      <x>80</x>
+      <y>460</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Coude</string>
+     <string>Coude en Haut</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_PinceFermer">
     <property name="geometry">
      <rect>
-      <x>540</x>
-      <y>490</y>
-      <width>75</width>
+      <x>590</x>
+      <y>540</y>
+      <width>101</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>PinceFermer</string>
+     <string>Fermer la Pince</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_PositIni">
     <property name="geometry">
      <rect>
-      <x>620</x>
-      <y>460</y>
-      <width>75</width>
+      <x>590</x>
+      <y>470</y>
+      <width>101</width>
       <height>24</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
     </property>
     <property name="text">
      <string>Reset</string>
@@ -137,53 +222,92 @@
    <widget class="QPushButton" name="p_BaseDroite">
     <property name="geometry">
      <rect>
-      <x>300</x>
-      <y>380</y>
-      <width>75</width>
+      <x>350</x>
+      <y>540</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Base</string>
+     <string>Base à Droite</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_PoignetHaut">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>470</y>
-      <width>75</width>
+      <x>80</x>
+      <y>420</y>
+      <width>121</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Poignet</string>
+     <string>Poignet en Bas</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_RotationMain_Droite">
     <property name="geometry">
      <rect>
-      <x>260</x>
-      <y>500</y>
-      <width>151</width>
+      <x>330</x>
+      <y>380</y>
+      <width>161</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Rotation Main</string>
+     <string>Rotation Main à Droite</string>
     </property>
    </widget>
    <widget class="QPushButton" name="p_RotationMain_Gauche">
     <property name="geometry">
      <rect>
       <x>60</x>
-      <y>500</y>
-      <width>151</width>
+      <y>380</y>
+      <width>161</width>
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Rubik</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: white</string>
+    </property>
     <property name="text">
-     <string>Rotation Main</string>
+     <string>Rotation Main à Gauche</string>
     </property>
    </widget>
    <widget class="QGraphicsView" name="graphicsView">

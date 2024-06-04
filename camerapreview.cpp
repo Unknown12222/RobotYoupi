@@ -23,4 +23,7 @@ CameraPreview::CameraPreview(QGraphicsView *view, QObject *parent)
 
     // Démerrer la prévisualisation de la caméra
     camera->start();
+
+
+
 }
